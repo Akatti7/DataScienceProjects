@@ -24,7 +24,7 @@ This project focuses on conducting a comprehensive sales analysis to derive insi
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Akatti7/DataScienceProjects/blob/main/images/How-to-trade-stocks.jpg"> **[Stock Portfolio Generative AI Chatbot](https://github.com/Akatti7/Sales-Analyses)**
+<img align="left" width="250" height="150" src="https://github.com/Akatti7/DataScienceProjects/blob/main/images/How-to-trade-stocks.jpg"> **[Stock Portfolio Generative AI Chatbot](https://github.com/Akatti7/Financial-Generative-AI-Chatbot)**
 
 This project aims to develop a Generative AI Chatbot that assists investors in managing their stock portfolios. The chatbot allows investors to easily monitor, buy, and sell stocks, providing responsive and accurate actions based on user commands. This tool simplifies portfolio management, ensuring investors can make informed decisions efficiently.
 
